@@ -3,6 +3,7 @@ _Applying machine learning to solve a real-world challenge: credit card risk._
 
 
 ## Overview
+- _Explain the purpose of this analysis._
 
 ## Results
 - _Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results._
