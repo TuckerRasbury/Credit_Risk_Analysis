@@ -19,39 +19,39 @@ Below in the results section, I evaluate the performance of each of these models
 - _Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results._
 
 ### ROS
-- **Balanced Accuracy Score: **
+- **Balanced Accuracy Score**
 
-- **Imbalanced Classification Report **
+- **Imbalanced Classification Report**
 
 
 ### SMOTE
-- **Balanced Accuracy Score: **
+- **Balanced Accuracy Score**
 
-- **Imbalanced Classification Report **
+- **Imbalanced Classification Report**
 
 
 ### Undersampling
-- **Balanced Accuracy Score: **
+- **Balanced Accuracy Score**
 
-- **Imbalanced Classification Report **
+- **Imbalanced Classification Report**
 
 
 ### SMOTEENN
-- **Balanced Accuracy Score: **
+- **Balanced Accuracy Score**
 
-- **Imbalanced Classification Report **
+- **Imbalanced Classification Report**
 
 
 ### Balanced Random Forest Classifier
-- **Balanced Accuracy Score: **
+- **Balanced Accuracy Score**
 
-- **Imbalanced Classification Report **
+- **Imbalanced Classification Report**
 
 
 ### Easy Ensemble Classifier
-- **Balanced Accuracy Score: **
+- **Balanced Accuracy Score**
 
-- **Imbalanced Classification Report **
+- **Imbalanced Classification Report**
 
 
 ## Summary
