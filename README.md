@@ -19,45 +19,45 @@ Below in the results section, I evaluate the performance of each of these models
 - _Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results._
 
 ### ROS
-- **Balanced Accuracy Score**
+##### Balanced Accuracy Score
 ![](/images/ROS_balanced_accuracy_score.png)
 
-- **Imbalanced Classification Report**
+##### Imbalanced Classification Report
 ![](/images/ROS_classification_report_imbalanced.png)
 
 ### SMOTE
-- **Balanced Accuracy Score**
+##### Balanced Accuracy Score
 ![](/images/SMOTE_balanced_accuracy_score.png)
 
-- **Imbalanced Classification Report**
+##### Imbalanced Classification Report**
 ![](/images/SMOTE_classification_report_imbalanced.png)
 
 ### Undersampling
-- **Balanced Accuracy Score**
+##### Balanced Accuracy Score
 ![](/images/Undersampling_balanced_accuracy_score.png)
 
-- **Imbalanced Classification Report**
+##### Imbalanced Classification Report
 ![](/images/Undersampling_classification_report_imbalanced.png)
 
 ### SMOTEENN
-- **Balanced Accuracy Score**
+##### Balanced Accuracy Score
 ![](/images/SMOTEENN_balanced_accuracy_score.png)
 
-- **Imbalanced Classification Report**
+##### Imbalanced Classification Report
 ![](/images/SMOTEENN_classification_report_imbalanced.png)
 
 ### Balanced Random Forest Classifier
-- **Balanced Accuracy Score**
+##### Balanced Accuracy Score
 ![](/images/BalancedRandomForestClassifier_balanced_accuracy_score.png)
 
-- **Imbalanced Classification Report**
+##### Imbalanced Classification Report
 ![](/images/BalancedRandomForestClassifier_classification_report_imbalanced.png)
 
 ### Easy Ensemble Classifier
-- **Balanced Accuracy Score**
+##### Balanced Accuracy Score
 ![](/images/EasyEnsembleClassifier_balanced_accuracy_score.png)
 
-- **Imbalanced Classification Report**
+##### Imbalanced Classification Report
 ![](/images/EasyEnsembleClassifier_classification_report_imbalanced.png)
 
 ## Summary
