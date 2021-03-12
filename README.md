@@ -16,7 +16,6 @@ To assist LendingClub with its issue identifying bad loans, I used imbalanced-le
 Below in the results section, I evaluate the performance of each of these models. And, in the summary section I recommend whether the models should be used to predict credit risk.
 
 ## Results
-- _Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results._
 
 ### ROS
 ##### Balanced Accuracy Score
@@ -61,5 +60,4 @@ Below in the results section, I evaluate the performance of each of these models
 ![](/images/EasyEnsembleClassifier_classification_report_imbalanced.png)
 
 ## Summary
-- _Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning._
-
+I would recommend the Easy Ensemble Classifier model because it has a balanced accuracy score of ______
