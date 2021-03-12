@@ -60,4 +60,6 @@ Below in the results section, I evaluate the performance of each of these models
 ![](/images/EasyEnsembleClassifier_classification_report_imbalanced.png)
 
 ## Summary
-I would recommend the Easy Ensemble Classifier model because it has a balanced accuracy score of ______
+I would recommend the Easy Ensemble Classifier model because it has a balanced accuracy score of ~92%. However, that model is so high relative to the others that I would recommend the second strongest model, the Balanced Random Forest Classifier at 78%, be deployed for now and waiting to deploy the Easy Ensemble Classifier model until a colleague can peer over it to ensure its accuracy. The Balanced Random Forest Classifier seems like the highest balanced accuracy score still in the sphere of the other scores. When something is too good to be true, it should be further inspected.
+
+The Balanced Random Forest Classifier model also has the highest average recall at 1.0. This makes me confident that we are not entirely osing quality in our fraud detection model for the short time we are double checking our potentially outstanding model, the Easy Ensemble Classifier.
