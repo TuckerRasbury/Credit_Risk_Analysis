@@ -20,39 +20,45 @@ Below in the results section, I evaluate the performance of each of these models
 
 ### ROS
 - **Balanced Accuracy Score**
+![](ROS_balanced_accuracy_score.png)
 
 - **Imbalanced Classification Report**
-
+![](ROS_classification_report_imbalanced.png)
 
 ### SMOTE
 - **Balanced Accuracy Score**
+![](SMOTE_balanced_accuracy_score.png)
 
 - **Imbalanced Classification Report**
-
+![](SMOTE_classification_report_imbalanced.png)
 
 ### Undersampling
 - **Balanced Accuracy Score**
+![](Undersampling_balanced_accuracy_score.png)
 
 - **Imbalanced Classification Report**
-
+![](Undersampling_classification_report_imbalanced.png)
 
 ### SMOTEENN
 - **Balanced Accuracy Score**
+![](SMOTEENN_balanced_accuracy_score.png)
 
 - **Imbalanced Classification Report**
-
+![](SMOTEENN_classification_report_imbalanced.png)
 
 ### Balanced Random Forest Classifier
 - **Balanced Accuracy Score**
+![](BalancedRandomForestClassifier_balanced_accuracy_score.png)
 
 - **Imbalanced Classification Report**
-
+![](BalancedRandomForestClassifier_classification_report_imbalanced.png)
 
 ### Easy Ensemble Classifier
 - **Balanced Accuracy Score**
+![](EasyEnsembleClassifier_balanced_accuracy_score.png)
 
 - **Imbalanced Classification Report**
-
+![](EasyEnsembleClassifier_classification_report_imbalanced.png)
 
 ## Summary
 - _Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning._
